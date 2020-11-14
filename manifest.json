@@ -1,7 +1,7 @@
 {
-  "name": "infoCovid",
-  "short_name": "infoCovid",
-  "description": "infoCovid",
+  "name": "infoCOVIDSTA2B",
+  "short_name": "infoCOVIDSTA2B",
+  "description": "infoCOVIDSTA2B",
   "lang": "it-IT",
   "start_url": "index.html",
   "display": "standalone",
